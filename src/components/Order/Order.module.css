@@ -1,0 +1,32 @@
+.modal{
+    width: 800px;
+    height: 500px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin: -280px 0 0 -400px;
+    background-color: rgb(175, 77, 77);
+    background-image: url("../../Img/modal.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+span{
+    margin-left: 30px;
+}
+span:hover{
+    background-color:  purple;
+}
+
+.btn{
+    font-size: 20px;
+}
+.title{
+    text-align: center;
+    font-size: larger;
+    background-color: plum;
+}
+
+.blockOrder{
+    background-color: plum;
+}

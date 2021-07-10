@@ -1,0 +1,7 @@
+.sun {
+    margin-left: 25px;
+    margin-top: 13px;
+}
+.sun :hover {
+    background-color: rgb(202, 202, 202);
+}

@@ -1,0 +1,62 @@
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    height: 50px;
+}
+.logo {
+    margin-right: 20px;
+    margin-top: 13px;
+    font-size: large;
+    font-family: "Courier New", Courier, monospace;
+}
+.linkSt {
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.link {
+    color: black;
+    text-decoration: none;
+}
+.active {
+    background-color: gray;
+}
+.input {
+    margin-top: 10px;
+    margin-left: 25px;
+    color: rgb(233, 233, 233);
+}
+.button {
+    text-align: center;
+    width: 30px;
+    height: 30px;
+    margin-left: 25px;
+    margin-top: 10px;
+    background-color: rgb(233, 233, 233);
+}
+.searchSt {
+    margin-top: 3px;
+}
+.button:hover {
+    background-color: rgb(202, 202, 202);
+}
+.basket {
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 10px;
+    width: 30px;
+    height: 30px;
+}
+.basketSt {
+    margin-top: 2px;
+}
+.basket:hover {
+    background-color: rgb(202, 202, 202);
+}
+.bubble {
+    color: blue;
+}
+.count {
+    margin-top: 12px;
+}

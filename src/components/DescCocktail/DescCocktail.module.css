@@ -1,0 +1,32 @@
+.bg{
+    background-image: url("../../Img/cocktail.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    position: relative;
+    height: 100%;
+}
+.img{
+    width: 800px;
+    height: 500px;
+    top: 50%;
+    left: 50%;
+    margin-top: 10px;
+}
+.imgSt{
+    text-align: center;
+}
+.Content{
+    margin-bottom: 100px;
+}
+.Buy{
+    color: black;
+}
+button {
+    background: none;
+    border: 2px solid;
+    font: inherit;
+    line-height: 1;
+    margin: 0.5em;
+    padding: 1em 2em;
+}

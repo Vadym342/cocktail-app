@@ -1,0 +1,44 @@
+.main {
+    background-image: url("../../Img/home.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    width: 100%;
+    position: fixed;
+    height: 700px;
+}
+.blur{
+    background-color: gray;
+    filter: blur(5px)
+}
+.title {
+    margin-top: 50px;
+    margin-left: 50px;
+    color: rgb(121, 26, 139);
+    width: 300px;
+    font-size: 40px;
+}
+.button {
+    margin-top: 125px;
+    margin-left: 100px;
+    width: 200px;
+}
+.buttonSt {
+    border: none;
+    width: 250px;
+    height: 50px;
+    font-size: 30px;
+}
+.button1 {
+    margin-left: 100px;
+    margin-top: 20px;
+    width: 200px;
+}
+.stBtnFill{
+    width: 180px;
+}
+.stBtnFillPulse{
+    width: 180px;
+}
+
+

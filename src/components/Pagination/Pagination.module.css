@@ -1,0 +1,13 @@
+.letters{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap:wrap;
+}
+.lettersSt{
+    text-decoration: none;
+}
+
+.lettersSt:hover{
+    color: rgb(145, 145, 145);
+}
